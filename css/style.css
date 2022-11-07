@@ -1,0 +1,25 @@
+.bakedmacncheese, .steak, .orangechicken{
+    height: 400px;
+    width: 905;
+    border: 5px solid #000;
+}
+
+.bakedmacncheese{
+    border: 5px solid yellow;
+}
+
+.steak{
+    border: 5px solid brown;
+}
+
+.orangechicken{
+    border: 5px solid orangered;
+}
+
+.carousel-item{
+margin: 0px 30px;
+}
+
+.pb:hover{
+    background-color: red;
+}
